@@ -3,5 +3,5 @@
 <h3> Група на код: </h3>
 <p> Ја добив групата на код 1. </p>
 <h3> Control Flow Graph </h3>
-![](/images/graf.png)
+![](images/graf.png)
 
